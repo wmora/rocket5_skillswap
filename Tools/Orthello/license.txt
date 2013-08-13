@@ -1,0 +1,51 @@
+WyrmTale Games Unity 3D component License
+
+This document is a license agreement ("License") by WyrmTale Games between the user ("You") and WyrmTale Games. Use of the free and commercial products from the WyrmTale website is conditional upon the your agreement to the terms and conditions of purchase set out below. If you do not agree to these terms, then you must not accept the terms hereof or purchase, download, access or otherwise use any products from WyrmTale Games.
+
+WyrmTale Games may revise and update this Agreement at anytime and without notice. Your continued use of the website after any such changes are posted will constitute your acceptance of these changes.
+
+LICENSE
+
+WyrmTale Games offers Unity 3D components on its website (www.wyrmtale.com) for 3D game and application developers that use Unity3D to create their games and applications. No payments or royalties are required to use these components. The use of our components is non-exclusive, royalty free, and you have the right to modify them for the uses permitted under the clause Conditions of Use.
+
+All Unity3D components remain in ownership of WyrmTale Games and are licensed to you, the ownership is not sold. It is a non-transferable license.
+
+INTELLECTUAL PROPERTY
+
+All components including all component source files like 3D model and FBX files (like blender), Adobe photoshop PSD files for the textures, are the property of WyrmTale Games and are protected by intellectual property laws. 
+
+CONDITIONS OF USE
+
+Use of the components is only allowed under the following conditions:
+- Private or commercial use
+- components can be used in Unity3D projects as long as the 'end-product' is a compiled Unity3D game or application.
+- Models with textures may be used in 2D or 3D Computer graphics like games or movies.
+
+It is NOT permitted to:
+- Sell or distribute any of these components, or any of these components parts like ; textures, models, scene's, script files, c# code or any other component sources files by itself.
+- Include these components or component parts into another commercial Unity3D asset package to be sold.
+- Embed these components into other Unity3D components that are sold in the Unity Asset Store or sold as seperate Unity3D components using another medium
+
+LIMITATION OF LIABILITY
+
+You assume all responsibility and risk for the use of any WyrmTale Unity 3D components or any embedded parts. WyrmTale Games does not represent or warrant that these components available for downloading will be free of viruses or similar contaminations of destructive features.
+
+In no event shall WyrmTale Games or any of its affiliates, employees or Contributors be liable for any incidental, indirect, punitive, exemplary or consequential damages whatsoever, including damages for loss of profits, interruption, loss of business information, loss of data, or any other pecuniary loss in connection with any claim, loss, action, suit, damage or other proceeding arising under or out of this License, including without limitation your use of, reliance upon, access to or exploitation of the WyrmTale components, the materials or any part thereof, or any rights granted to you hereunder, even if we have been advised of the possibility of such damaged, wheter the action is based on contract, tort (including negligence), infringement of intellectual property rights or otherwise.
+
+INDEMNIFICATION
+
+You agree to indemnify and hold WyrmTale Games harmless against all claims or liability asserted against WytmTale Games arising out of or in connection with any breach by you or anyone acting on your behalf of any of this License.
+.
+GENERAL
+
+This License shall be governed by and construed in accordance with the laws of The Netherlands, without regards to conflict of laws provisions thereto. The parties consent to the exclusive jurisdiction of the courts of, and venue and situs in The Netherlands.
+
+TERMINATION
+
+WyrmTale Games reserves the right to terminate the license of the use of WyrmTale components if the user is found in breach of this License and does not remedy that breach within three (3) days of receiving notice from WyrmTale Games.
+
+
+EMAIL
+
+Feel free to email any questions regarding this license or any other questions about WyrmTale Components to support@wyrmtale.com
+Correspondence can be in English or Dutch.
